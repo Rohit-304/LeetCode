@@ -9,9 +9,12 @@ Output: 2
 Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 
 Example 2:
+
 Input: nums = [0,0,0], target = 1
 Output: 0
+
 Explanation: The sum that is closest to the target is 0. (0 + 0 + 0 = 0).
+
 Constraints:
 3 <= nums.length <= 500
 -1000 <= nums[i] <= 1000
